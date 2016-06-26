@@ -37,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
         public Object getItem(int position) {
             return null;
         }
+        //修改一下
 
         @Override
         public long getItemId(int position) {
